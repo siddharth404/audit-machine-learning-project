@@ -59,11 +59,5 @@ We welcome contributions! Follow these steps:
 4. **Push to the branch**: `git push origin feature-branch`
 5. **Open a Pull Request**
 
-## License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
-## Contact
-For questions or suggestions, feel free to contact me at **joehiggi1758@gmail.com** or connect on **LinkedIn**.
-
 ---
 🚀 Happy coding and enjoy working with the **Question and Answer AI Chatbot**!
